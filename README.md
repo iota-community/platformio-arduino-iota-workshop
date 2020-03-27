@@ -65,6 +65,10 @@ pio run -t monitor
 - [e01_generate_address](esp32dev/e01_generate_address)
 - [e02_create_singnature](esp32dev/e02_create_singnature)
 
+**black_f407ve (STM32F407VET6)**
+- [e01_generate_address](black_f407ve/e01_generate_address)
+- [e02_create_singnature](black_f407ve/e02_create_singnature)
+
 **sipeed-maix-bit (Kendryte K210)**
 - [e01_generate_address](sipeed-maix-bit/e01_generate_address)
 - [e02_create_singnature](sipeed-maix-bit/e02_create_singnature)
